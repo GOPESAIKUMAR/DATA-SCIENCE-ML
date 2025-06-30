@@ -1,0 +1,601 @@
+City,Procedure,Number of Surgeons,Price Range,Average Price,Top Rated Surgeon,More Information
+Tampa,Tummy Tuck,419,"$7,000 to $14,000","$7,600",Dr. John Roach,https://www.aestheticmatch.com/cities/tampa
+Tampa,Breast Reduction,169,"$6,000 to $11,200","$11,350","Dr. Traci Temmen, MD",https://www.aestheticmatch.com/cities/tampa
+Tampa,Liposuction,156,"$4,000 to $11,000","$8,000",Dr. Traci Temmen,https://www.aestheticmatch.com/cities/tampa
+Tampa,Breast Implants,152,"$4,500 - $6,500","$5,700",Dr. Jaime Perez,https://www.aestheticmatch.com/cities/tampa
+Tampa,Facelift,147,"$8,900 - $17,000","$12,300","Dr. Demetri Arnaoutakis, MD",https://www.aestheticmatch.com/cities/tampa
+Tampa,Nose Plastic Surgery (Rhinoplasty),190,"$9,000 - $12,000","$10,400",Dr. Dominic Castellano,https://www.aestheticmatch.com/cities/tampa
+Miami,Tummy Tuck,576,"$3,000 to $12,000","$8,072",Dr. K (DrKMiamiPlasticSurgery.com),https://www.aestheticmatch.com/cities/miami
+Miami,Liposuction,323,"$1,500 to $10,000","$3,800","Dr. Daniel K. Becker, MD, FACS",https://www.aestheticmatch.com/cities/miami
+Miami,Breast Reduction,277,"$3,000 to $12,000","$6,700",Dr. K (Dr. K Plastic Surgery),https://www.aestheticmatch.com/cities/miami
+Miami,Breast Implants,271,"$2,300 to $12,000","$5,800",Dr. Mel Ortega,https://www.aestheticmatch.com/cities/miami
+Miami,Facelift,253,"$10,000 to $38,000","$20,180",Dr. Constantino Mendieta,https://www.aestheticmatch.com/cities/miami
+Miami,Nose Plastic Surgery (Rhinoplasty),289,"$4,000 – $20,000","$8,500",Dr. Anthony Bared,https://www.aestheticmatch.com/cities/miami
+Los Angeles,Tummy Tuck,1081,"$4,000 to $20,000","$15,380",Dr. Stephen Bresnick,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Breast Reduction,468,"$7,500 to $15,000","$13,900",Dr. Gary Motykie,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Liposuction,422,"$2,000 to $40,000","$6,950",Dr. Sarah Yovino,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Breast Implants,407,$7500-$12500,"$9,100",Dr. David Stoker,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Facelift,379,"$12,000 – $50,000","$21,500",Dr. Jay Calvert,https://www.aestheticmatch.com/cities/los-angeles
+Los Angeles,Nose Plastic Surgery (Rhinoplasty),453,"$7,500 to $20,000","$9,150",Dr. Babak Azizzadeh,https://www.aestheticmatch.com/cities/los-angeles
+Houston,Tummy Tuck,105,"$12,000 – $19,000","$12,150",Dr. Christopher Patronella,https://www.aestheticmatch.com/cities/houston
+Houston,Breast Reduction,32,"$6,500 to $10,000","$8,100",Dr. Ahmadi,https://www.aestheticmatch.com/cities/houston
+Houston,Breast Implants,18,"$6,000 to $10,000","$7,850",Dr. Ravi Somayazula,https://www.aestheticmatch.com/cities/houston
+Houston,Liposuction,15,"$3,500 to $8,800","$4,700",Dr. Christopher Patronella,https://www.aestheticmatch.com/cities/houston
+Houston,Facelift,9,"$7,000 to $25,000","$15,000",Dr. Sameer Patel,https://www.aestheticmatch.com/cities/houston
+Houston,Nose Plastic Surgery (Rhinoplasty),13,"$6,000 to $12,000","$7,680",Dr. Christopher Funk,https://www.aestheticmatch.com/cities/houston
+Dallas,Tummy Tuck,62,"$3,175 to $22,000","$12,692",Dr. Farris,https://www.aestheticmatch.com/cities/dallas
+Dallas,Facelift,6,"$8,000 – $20,000","$15,150",Dr. David Liland,https://www.aestheticmatch.com/cities/dallas
+Dallas,Liposuction,4,"$3,000 to $17,000","$7,500",Dr. Steve Liland,https://www.aestheticmatch.com/cities/dallas
+Dallas,Breast Reduction,13,"$6,500 to $14,400","$9,040",Dr. Paul Liland,https://www.aestheticmatch.com/cities/dallas
+Dallas,Breast Implants,7,"$5,700 to $14,500","$7,150","Dr. Michael Farris, MD",https://www.aestheticmatch.com/cities/dallas
+Dallas,Nose Plastic Surgery (Rhinoplasty),16,"$4,125 to $22,000","$10,150","Dr. Jesse E. Smith, MD, FACS",https://www.aestheticmatch.com/cities/dallas
+Atlanta,Tummy Tuck,134,"$7,000 to $25,000+","$14,200",Dr. Thomas Yalif,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Breast Reduction,39,"$4,500 – $16,000","$10,150",Dr. Richard J. Arslanian,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Liposuction,23,"$750 to $5,500","$3,100",Plastic Surgery Center of the South,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Breast Implants,26,"$3,000 to $12,000","$5,170",Dr. Paul McCluskey,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Facelift,19,"$3,500 to $35,000","$8,025",Dr. Aaron Fletcher,https://www.aestheticmatch.com/cities/atlanta
+Atlanta,Nose Plastic Surgery (Rhinoplasty),38,4800 - 15450,"$8,100",Dr. Aaron Fletcher,https://www.aestheticmatch.com/cities/atlanta
+Winston-Salem,Tummy Tuck,173,"$6,000 to $12,000","$9,100","Dr. Andrew M. Schneider, M.D., F.A.C.S.",https://www.aestheticmatch.com
+Wichita,Tummy Tuck,59,"$6,000 to $11,500","$8,800","Dr. Matthew Conrad, MD",https://www.aestheticmatch.com
+Winston-Salem,Breast Reduction,39,"$10,000 – $11,000","$10,800",Salem Plastic Surgery,https://www.aestheticmatch.com
+Wichita,Breast Reduction,24,"$4,831 to $8,335","$6,675","Dr. Matthew Conrad, MD, PA",https://www.aestheticmatch.com
+Winston-Salem,Facelift,29,"$14,000 to $16,000","$14,650",Dr. Sanjay Daluvoy,https://www.aestheticmatch.com
+Winston-Salem,Liposuction,23,"$3,000 to $8,000","$5,200",Dr. Gilson J. Kingman,https://www.aestheticmatch.com
+Winston-Salem,Breast Implants,24,"$7,500 - $8,000","$7,670",Dr. Charles Milliken,https://www.aestheticmatch.com
+Wichita,Breast Implants,10,"$4,875 to $15,109","$5,716",Dr. James M. Shaw,https://www.aestheticmatch.com
+Wichita,Liposuction,8,"$3,000 to $8,000","$5,100","Dr. James A. Rieger, MD",https://www.aestheticmatch.com
+Wichita,Facelift,7,"$8,000 to $22,000+","$10,200",Dr. James Shaw,https://www.aestheticmatch.com
+Winston-Salem,Nose Plastic Surgery (Rhinoplasty),41,"$6,000 to $15,000","$8,500","Dr. Scott L. Tucker, MD",https://www.aestheticmatch.com
+Wichita,Nose Plastic Surgery (Rhinoplasty),17,5000-15000,8900,"Dr. Matthew H. Conrad, MD",https://www.aestheticmatch.com
+Washington,Nose Plastic Surgery (Rhinoplasty),127,"$2,500 to $15,000+","$14,800",Dr. Michael Weinfeld,https://www.aestheticmatch.com
+Washington,Tummy Tuck,521,"$6,000 to $15,000","$9,000",Dr. Philip J. Miller,https://www.aestheticmatch.com
+Virginia Beach,Tummy Tuck,145,"$6,000 to $15,000","$9,100",Dr. Michael J. Zaremba,https://www.aestheticmatch.com
+Tulsa,Tummy Tuck,95,"$5,000 - $22,900","$10,231",Dr. Brenda Schiesel,https://www.aestheticmatch.com
+Tucson,Tummy Tuck,97,"$5,000 to $15,000","$7,800",Dr. Scott Hurst,https://www.aestheticmatch.com
+Toledo,Tummy Tuck,67,"$5,000 to $12,000","$9,300",Dr. John Zavell,https://www.aestheticmatch.com
+Stockton,Tummy Tuck,391,"$10,000 to $12,000","$11,100",Dr. Victor Mabourakh,https://www.aestheticmatch.com
+St. Petersburg,Tummy Tuck,1878,"$7,500 to $11,350","$9,153",Dr. John J. O’Brien,https://www.aestheticmatch.com
+St. Louis,Tummy Tuck,1878,"$11,000 to $17,000","$12,850","Dr. Paul Rottler, MD",https://www.aestheticmatch.com
+Seattle,Tummy Tuck,404,"$7,000 to $15,000","$11,919",Dr. Kris Day,https://www.aestheticmatch.com
+Scottsdale,Tummy Tuck,361,"$7,000 to $27,500","$11,950",Dr. Anthony Tessler,https://www.aestheticmatch.com
+Santa Ana,Tummy Tuck,1102,"$8,000 to $20,000","$11,745",Dr. Wayne Yamahata,https://www.aestheticmatch.com
+San Jose,Tummy Tuck,593,"$10,000 to $15,000","$13,200",Dr. Alexander Ereso,https://www.aestheticmatch.com
+San Francisco,Tummy Tuck,631,"$8,000 to $20,000","$11,800",Dr. Kimberly Henry,https://www.aestheticmatch.com
+San Diego,Tummy Tuck,257,"$4,995 to $18,500","$11,850",Dr. Larry Pollack,https://www.aestheticmatch.com
+San Antonio,Tummy Tuck,443,"$6,000 to $30,000","$12,150",Dr. Thomas Jeneby,https://www.aestheticmatch.com
+Saint Paul,Tummy Tuck,308,"$5,000 - $22,900","$15,467",Dr. Thao,https://www.aestheticmatch.com
+Sacramento,Tummy Tuck,287,"$9,000 to $15,000","$13,243",Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Tummy Tuck,82,"$7,000 to $12,500","$9,820",Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Tummy Tuck,11,"$6,950 to $18,000","$10,200",Dr. Gordon Lewis,https://www.aestheticmatch.com
+Reno,Tummy Tuck,61,"$7,000 - $15,000","$10,150",Dr. Timothy Janiga,https://www.aestheticmatch.com
+Raleigh,Tummy Tuck,40,"$10,000 to $11,500","$10,870",Dr. William Stoeckel,https://www.aestheticmatch.com
+Portland,Tummy Tuck,166,"$7,000 to $15,300","$11,100",Dr. David Bohley,https://www.aestheticmatch.com
+Port St. Lucie,Tummy Tuck,150,"$8,000 - $10,000","$8,100",Dr. Lee,https://www.aestheticmatch.com
+Plano,Tummy Tuck,19,"$7,475 to $22,000","$12,200","Dr. Ronald M. Friedman, M.D.",https://www.aestheticmatch.com
+Pittsburgh,Tummy Tuck,245,"$6,500 - $9,000","$7,400","Dr. Wooten, Beleza Plastic Surgery",https://www.aestheticmatch.com
+Phoenix,Tummy Tuck,640,"$10,000 to $17,000","$13,400","Dr. William Hall, M.D. at Infini Phoenix Liposuction",https://www.aestheticmatch.com
+Philadelphia,Tummy Tuck,13,"$11,000 - $18,000","$12,960",Dr. David Bottger,https://www.aestheticmatch.com
+Orlando,Tummy Tuck,111,"$6,000 - $22,000","$13,800",Dr. Jon Paul Trevisani,https://www.aestheticmatch.com
+Omaha,Tummy Tuck,62,"$6,000 to $12,000","$11,800",Dr. Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Tummy Tuck,124,"$5,000 to $15,000","$10,700",Dr. Clinton Webster,https://www.aestheticmatch.com
+Oakland,Tummy Tuck,638,"$8,000 to $20,000","$13,200","Dr. Wayne Yamahta, East Bay Plastic Surgery, Oakland, CA",https://www.aestheticmatch.com
+North Las Vegas,Tummy Tuck,131,"$6,000 - $15,000","$9,200",Dr. Joseph Stile,https://www.aestheticmatch.com
+Norfolk,Tummy Tuck,20,"$8,000 to $15,000","$11,800",Dr. Sundin,https://www.aestheticmatch.com
+Newark,Tummy Tuck,166,"$4,500 to $15,000","$8,075",Dr. Joanna Partridge at Partridge Plastic Surgery,https://www.aestheticmatch.com
+New York,Tummy Tuck,1733,"$5,000 - $16,500","$14,430","Dr. Matthew Schulman, M.D.",https://www.aestheticmatch.com
+New Orleans,Tummy Tuck,180,"$6,000 to $22,000","$14,150",Dr. Jules Walters,https://www.aestheticmatch.com
+Nashville,Tummy Tuck,16,"$5,500 to $25,000","$12,100",Dr. Harris,https://www.aestheticmatch.com
+Minneapolis,Tummy Tuck,128,"$7,000 to $15,000","$11,600",Dr. Gregory T. Mesna,https://www.aestheticmatch.com
+Milwaukee,Tummy Tuck,27,"$5,000 to $17,000","$10,500",Dr. Mark Bonness,https://www.aestheticmatch.com
+Mesa,Tummy Tuck,361,"$10,000 - $15,000","$12,700","Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Memphis,Tummy Tuck,329,"$8,250 to $20,000","$10,400",Dr. John Rosdeutscher,https://www.aestheticmatch.com
+Madison,Tummy Tuck,463,"$7,000 to $10,000","$8,150",Dr. Ember Ewings,https://www.aestheticmatch.com
+Lubbock,Tummy Tuck,52,"$12,500 to $22,000","$16,950","Dr. Jane Rowley, Rowley Plastic Surgery",https://www.aestheticmatch.com
+Louisville,Tummy Tuck,350,"$5,470 to $15,000","$9,200",Dr. Corbett,https://www.aestheticmatch.com
+Long Beach,Tummy Tuck,1060,"$6,000 to $12,000","$9,800",Dr. Naim,https://www.aestheticmatch.com
+Lincoln,Tummy Tuck,653,"$8,000 to $9,000+","$8,340",Dr. Jacobson,https://www.aestheticmatch.com
+Lexington,Tummy Tuck,45,"$8,000 - $15,000","$11,050",Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Tummy Tuck,131,"$4,000 - $15,000","$8,800",Dr. Bryson Richards,https://www.aestheticmatch.com
+Laredo,Tummy Tuck,8,"$10,000 to $16,000","$12,900",Dr. Nader Sukkar,https://www.aestheticmatch.com
+Kansas City,Tummy Tuck,200,"$6,000 to $18,000","$8,124",Dr. Namrata Chhatre,https://www.aestheticmatch.com
+Jersey City,Tummy Tuck,1878,"$4,500 to over $12,000","$8,832","Dr. Pedy Ganchi, MD",https://www.aestheticmatch.com
+Jacksonville,Tummy Tuck,97,"$8,000 to $16,000","$10,200",Dr. Patrick Basile,https://www.aestheticmatch.com
+Irving,Tummy Tuck,121,"$8,000 to $19,000","$12,700","Dr. Raja Mohan, MD",https://www.aestheticmatch.com
+Irvine,Tummy Tuck,116,"$8,000 to $17,000","$11,500",Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Indianapolis,Tummy Tuck,229,"$6,995 to $12,500","$7,650",Dr. Kimberly Short,https://www.aestheticmatch.com
+Honolulu,Tummy Tuck,78,"$9,000 to $20,000","$13,210",Dr. Scott Ennis,https://www.aestheticmatch.com
+Hialeah,Tummy Tuck,584,"$3,000 to $12,875","$8,100",Dr. Bernabe Vazquez,https://www.aestheticmatch.com
+Henderson,Tummy Tuck,13,"$6,000 - $22,000","$9,200",Dr. Bryson Richards,https://www.aestheticmatch.com
+Greensboro,Tummy Tuck,227,"$6,500 - $11,000","$8,209",Award-winning surgeons at H/K/B Cosmetic Surgery in Greensboro,https://www.aestheticmatch.com
+Glendale,Tummy Tuck,29,"$6,120 to $12,587","$11,400",Dr. Vartany,https://www.aestheticmatch.com
+Gilbert,Tummy Tuck,14,"$10,000 - $15,000","$13,200","Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Garland,Tummy Tuck,77,"$8,000 – $22,000","$12,728",Dr. Farris,https://www.aestheticmatch.com
+Frisco,Tummy Tuck,3,"$12,500 – $22,000","$16,800","Dr. Ronald M. Friedman, M.D.",https://www.aestheticmatch.com
+Fresno,Tummy Tuck,512,"$6,000 to $12,000","$9,200","Dr. Mark A. Chin, MD",https://www.aestheticmatch.com
+Fort Worth,Tummy Tuck,561,"$7,500 to $17,000","$13,100",Dr. Vishnu Rumalla,https://www.aestheticmatch.com
+Fort Wayne,Tummy Tuck,118,"$6,000 to $9,000+","$7,450",Dr. Kimberly Short,https://www.aestheticmatch.com
+El Paso,Tummy Tuck,66,"$6,000 to $10,000","$8,150",Dr. Mark Jabor,https://www.aestheticmatch.com
+Durham,Tummy Tuck,18,"$7,135 to $11,000+","$10,900",Dr. William Ortiz,https://www.aestheticmatch.com
+Detroit,Tummy Tuck,65,"$6,100 - $15,000","$9,300",Dr. Repta,https://www.aestheticmatch.com
+Denver,Tummy Tuck,507,"$7,000 – $23,000","$19,200",Dr. R. Winfield Ketchum (Peak Plastic Surgery),https://www.aestheticmatch.com
+Corpus Christi,Tummy Tuck,55,"$6,525 to $9,550","$8,300",Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Tummy Tuck,42,"$8,500 - $14,000","$8,800",Dr. Donaldson and Dr. Sieffert,https://www.aestheticmatch.com
+Colorado Springs,Tummy Tuck,121,"$9,000 to $25,000","$14,950",Dr. Steven Vath,https://www.aestheticmatch.com
+Cleveland,Tummy Tuck,92,"$6,000 to $12,000","$8,150","Dr. Gregory M. Fedele, MD, FACS",https://www.aestheticmatch.com
+Cincinnati,Tummy Tuck,241,"$3,900 to $8,725","$7,600","Dr. Loftus, Loftus Plastic Surgery Center",https://www.aestheticmatch.com
+Chula Vista,Tummy Tuck,250,"$8,000 to $20,000","$11,700","Dr. Mark Mofid, MD, FACS",https://www.aestheticmatch.com
+Chicago,Tummy Tuck,655,"$6,100 to $15,000","$8,100",Dr. Laurie Casas,https://www.aestheticmatch.com
+Chesapeake,Tummy Tuck,149,"$10,500 - $14,500","$12,100","Dr. Jon E. Paulk, MD (Norfolk Plastic Surgery)",https://www.aestheticmatch.com
+Charlotte,Tummy Tuck,49,"$9,700 to $10,600","$9,800",Dr. Chad Deal,https://www.aestheticmatch.com
+Chandler,Tummy Tuck,70,"$14,900 – $27,500","$15,300",Dr. Aldo Guerra,https://www.aestheticmatch.com
+Cape Coral,Tummy Tuck,127,"$6,000 to $12,000","$9,100",Dr. Robert Brueck,https://www.aestheticmatch.com
+Buffalo,Tummy Tuck,273,"$7,000 – $13,500","$8,150",Dr. Samuel Shatkin Jr.,https://www.aestheticmatch.com
+Boston,Tummy Tuck,56,"$7,000 to $17,500","$12,150",Dr. Jeffrey Lee,https://www.aestheticmatch.com
+Boise,Tummy Tuck,92,"$6,000 to $12,000","$8,100",Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Tummy Tuck,269,"$8,000 to $20,000","$12,950",Dr. Ricardo L. Rodriguez,https://www.aestheticmatch.com
+Bakersfield,Tummy Tuck,54,"$11,000 – $16,000","$13,480",Dr. Mitts,https://www.aestheticmatch.com
+Austin,Tummy Tuck,0,"$8,000 to $15,000","$12,200",Dr. Aisha White,https://www.aestheticmatch.com
+Aurora,Tummy Tuck,39,"$7,000 to $25,000","$16,800",Dr. Steven Vath,https://www.aestheticmatch.com
+Arlington,Tummy Tuck,41,"$7,500 to $15,925","$9,100",Dr. David Campbell,https://www.aestheticmatch.com
+Anchorage,Tummy Tuck,48,"$5,000 - $22,900","$15,048",Dr. Michael J. Schoggen,https://www.aestheticmatch.com
+Anaheim,Tummy Tuck,1111,"$6,000 to $12,000","$8,620","Dr. Saba Motakef, MD",https://www.aestheticmatch.com
+Albuquerque,Tummy Tuck,71,"$7,600 to $8,000","$7,850",Dr. Miguel Gallegos,https://www.aestheticmatch.com
+Virginia Beach,Nose Plastic Surgery (Rhinoplasty),46,"$4,500 to $20,000","$11,200",Dr. William Choe,https://www.aestheticmatch.com
+Tulsa,Nose Plastic Surgery (Rhinoplasty),26,"$7,000 to $13,000","$9,200",Dr. Cuzalina,https://www.aestheticmatch.com
+Tucson,Nose Plastic Surgery (Rhinoplasty),26,"$6,000 to $15,000","$7,700",Dr. Jeffrey Nelson,https://www.aestheticmatch.com
+Toledo,Nose Plastic Surgery (Rhinoplasty),14,"$7,000 to $15,000","$8,900",Dr. John F. Zavell,https://www.aestheticmatch.com
+Stockton,Nose Plastic Surgery (Rhinoplasty),127,"$5,400 to $7,000","$6,300","Dr. James W. Pearson, MD",https://www.aestheticmatch.com
+St. Petersburg,Nose Plastic Surgery (Rhinoplasty),765,"$5,000 to $18,000","$8,400",Dr. Kevin Caceres,https://www.aestheticmatch.com
+St. Louis,Nose Plastic Surgery (Rhinoplasty),765,"$3,500 to $14,000","$8,150","Dr. Brian Ridenour, MD",https://www.aestheticmatch.com
+Seattle,Nose Plastic Surgery (Rhinoplasty),112,"$5,000 to $11,000","$8,150",Dr. Stile,https://www.aestheticmatch.com
+Scottsdale,Nose Plastic Surgery (Rhinoplasty),138,"$6,000 to $15,000","$11,100",Dr. Todd Hobgood,https://www.aestheticmatch.com
+Santa Ana,Nose Plastic Surgery (Rhinoplasty),445,"$5,000 to $15,000","$7,500","Dr. Ali Sajjadian, MD",https://www.aestheticmatch.com
+San Jose,Nose Plastic Surgery (Rhinoplasty),217,"$7,000 to $15,000+","$10,300",Dr. Larry Berkowitz,https://www.aestheticmatch.com
+San Francisco,Nose Plastic Surgery (Rhinoplasty),227,"$8,000 – $16,000","$11,920",Dr. Mark Lee,https://www.aestheticmatch.com
+San Diego,Nose Plastic Surgery (Rhinoplasty),109,"$4,129 to $15,470","$7,700","Dr. Roy David, MD",https://www.aestheticmatch.com
+San Antonio,Nose Plastic Surgery (Rhinoplasty),192,"$4,000 to $26,000","$8,050",Dr. Constance Barone,https://www.aestheticmatch.com
+Saint Paul,Nose Plastic Surgery (Rhinoplasty),91,"$7,000 to $15,000","$10,100",Dr. Joe Gryskiewicz,https://www.aestheticmatch.com
+Sacramento,Nose Plastic Surgery (Rhinoplasty),60,"$5,400 to $13,500","$9,200",Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Nose Plastic Surgery (Rhinoplasty),33,"$5,000 to $15,000","$9,800","Dr. Ben Childers, MD",https://www.aestheticmatch.com
+Richmond,Nose Plastic Surgery (Rhinoplasty),2,"$5,000 to $20,000+","$10,200","Dr. Burton M. Sundin, MD",https://www.aestheticmatch.com
+Reno,Nose Plastic Surgery (Rhinoplasty),24,"$6,500 to $9,500","$8,120",Dr. Dayan,https://www.aestheticmatch.com
+Raleigh,Nose Plastic Surgery (Rhinoplasty),9,"$8,400 to $10,600+","$9,742","Dr. Christopher D. Cohn at Specialists in Plastic Surgery, Raleigh",https://www.aestheticmatch.com
+Portland,Nose Plastic Surgery (Rhinoplasty),51,"$10,600 to $13,500","$11,900",Dr. Joseph Yocum,https://www.aestheticmatch.com
+Port St. Lucie,Nose Plastic Surgery (Rhinoplasty),79,"$2,500 to $15,000+","$7,200",Lee Plastic Surgery,https://www.aestheticmatch.com
+Plano,Nose Plastic Surgery (Rhinoplasty),3,6400-9000,7900,Dr. Wilcox,https://www.aestheticmatch.com
+Pittsburgh,Nose Plastic Surgery (Rhinoplasty),66,"$7,900–$15,000","$10,200",Dr. Eric A. Pautler,https://www.aestheticmatch.com
+Phoenix,Nose Plastic Surgery (Rhinoplasty),196,"$8,000 to $15,000","$12,150",Dr. Todd Hobgood,https://www.aestheticmatch.com
+Philadelphia,Nose Plastic Surgery (Rhinoplasty),3,"$3,500 - $18,000","$8,050",Dr. Adrian Lo,https://www.aestheticmatch.com
+Orlando,Nose Plastic Surgery (Rhinoplasty),28,"$10,710 to $12,765","$11,625",Dr. Michael Gelineau,https://www.aestheticmatch.com
+Omaha,Nose Plastic Surgery (Rhinoplasty),18,"$5,000 to $10,000","$7,700",Dr. Ayoub at Ayoub Plastic Surgery,https://www.aestheticmatch.com
+Oklahoma City,Nose Plastic Surgery (Rhinoplasty),34,"$7,000 - $15,000","$12,600",Dr. James Lowe,https://www.aestheticmatch.com
+Oakland,Nose Plastic Surgery (Rhinoplasty),228,"$7,000 to $15,000+","$10,150",Dr. Rex Moulton-Barrett,https://www.aestheticmatch.com
+North Las Vegas,Nose Plastic Surgery (Rhinoplasty),45,"$2,700 to $17,000","$12,300",Dr. Brian J. Parker,https://www.aestheticmatch.com
+Norfolk,Nose Plastic Surgery (Rhinoplasty),8,"$10,000 to $20,000+","$14,300",Dr. John Steinmetz,https://www.aestheticmatch.com
+Newark,Nose Plastic Surgery (Rhinoplasty),49,"$6,000 - $50,000","$11,200",Dr. Eric M. Joseph,https://www.aestheticmatch.com
+New York,Nose Plastic Surgery (Rhinoplasty),651,"$7,000 to $25,000","$11,800",Dr. David Cangello,https://www.aestheticmatch.com
+New Orleans,Nose Plastic Surgery (Rhinoplasty),58,"$4,600 to $15,000","$7,554",Dr. Charles G. Thorne,https://www.aestheticmatch.com
+Nashville,Nose Plastic Surgery (Rhinoplasty),1,"$3,500 to $16,000","$12,300",Dr. David Gilpin,https://www.aestheticmatch.com
+Minneapolis,Nose Plastic Surgery (Rhinoplasty),30,"$10,000 to $14,000","$10,700",Dr. Tholen,https://www.aestheticmatch.com
+Milwaukee,Nose Plastic Surgery (Rhinoplasty),9,"$6,000 to $15,000","$10,500",Dr. Anand Patel,https://www.aestheticmatch.com
+Mesa,Nose Plastic Surgery (Rhinoplasty),138,"$6,500 to $15,000","$9,200","Dr. Robert Bonillas, MD",https://www.aestheticmatch.com
+Memphis,Nose Plastic Surgery (Rhinoplasty),130,"$6,000 to $12,000","$8,200",Dr. Phillip Langsdon,https://www.aestheticmatch.com
+Madison,Nose Plastic Surgery (Rhinoplasty),124,"$7,000 to $15,000","$10,200",Dr. Richard Parfitt,https://www.aestheticmatch.com
+Lubbock,Nose Plastic Surgery (Rhinoplasty),7,"$7,000 to $12,000","$9,250","Dr. Edward Daniele, MD",https://www.aestheticmatch.com
+Louisville,Nose Plastic Surgery (Rhinoplasty),120,"$7,000 to $13,000","$9,200",Dr. Lee Corbett,https://www.aestheticmatch.com
+Long Beach,Nose Plastic Surgery (Rhinoplasty),448,"$8,000 to $20,000","$9,400",Dr. Kevin Sadati,https://www.aestheticmatch.com
+Lincoln,Nose Plastic Surgery (Rhinoplasty),204,"$5,000 to $10,000","$7,700","Dr. Jacobson, Jacobson Cosmetic Surgery",https://www.aestheticmatch.com
+Lexington,Nose Plastic Surgery (Rhinoplasty),13,"$10,000 to $13,000","$11,520",Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Nose Plastic Surgery (Rhinoplasty),45,"$2,700 to $11,000","$8,000",Dr. Brian J. Parker,https://www.aestheticmatch.com
+Laredo,Nose Plastic Surgery (Rhinoplasty),0,"$4,000 to $16,000","$7,800",Dr. Jose Barrera,https://www.aestheticmatch.com
+Kansas City,Nose Plastic Surgery (Rhinoplasty),73,"$6,000 – $12,000","$8,200","Dr. Victor Perez, MD",https://www.aestheticmatch.com
+Jersey City,Nose Plastic Surgery (Rhinoplasty),758,"$6,000 to $50,000","$14,300",Dr. Robert Morin,https://www.aestheticmatch.com
+Jacksonville,Nose Plastic Surgery (Rhinoplasty),26,"$7,000 to $9,000","$8,100","Dr. David C. Pearson, M.D.",https://www.aestheticmatch.com
+Irving,Nose Plastic Surgery (Rhinoplasty),30,"$4,125 to $22,000","$10,475","Dr. Jesse E. Smith, MD, FACS",https://www.aestheticmatch.com
+Irvine,Nose Plastic Surgery (Rhinoplasty),26,"$3,000 to $15,000","$6,100",Dr. Babak Sadati,https://www.aestheticmatch.com
+Indianapolis,Nose Plastic Surgery (Rhinoplasty),73,"$4,500 to $8,500+","$6,400",Dr. Barry Eppley,https://www.aestheticmatch.com
+Honolulu,Nose Plastic Surgery (Rhinoplasty),26,"$2,000 - $12,000","$6,200",Athena Clinic,https://www.aestheticmatch.com
+Hialeah,Nose Plastic Surgery (Rhinoplasty),297,"$4,000 to $20,000","$6,500",Dr. Anthony Bared,https://www.aestheticmatch.com
+Henderson,Nose Plastic Surgery (Rhinoplasty),5,"$2,900 to $11,000","$8,400",Dr. Brian J. Parker,https://www.aestheticmatch.com
+Greensboro,Nose Plastic Surgery (Rhinoplasty),71,"$5,000 to $15,000","$10,100",Dr. Roland Hicks,https://www.aestheticmatch.com
+Glendale,Nose Plastic Surgery (Rhinoplasty),7,"$3,000 to $20,000","$12,500",Dr. Eric J. Yavrouian,https://www.aestheticmatch.com
+Gilbert,Nose Plastic Surgery (Rhinoplasty),5,"$6,500 – $8,000","$7,600",Dr. Josh Olson,https://www.aestheticmatch.com
+Garland,Nose Plastic Surgery (Rhinoplasty),19,"$4,125 to $22,000","$10,350","Dr. Jesse E. Smith, MD, FACS",https://www.aestheticmatch.com
+Frisco,Nose Plastic Surgery (Rhinoplasty),0,"$7,000 to $20,000","$11,150",Dr. Sean Hill,https://www.aestheticmatch.com
+Fresno,Nose Plastic Surgery (Rhinoplasty),204,"$6,000 – $12,000","$8,650","Dr. Mark A. Chin, M.D.",https://www.aestheticmatch.com
+Fort Worth,Nose Plastic Surgery (Rhinoplasty),186,"$8,000 – $20,000","$10,200",Dr. Jon Kurkjian,https://www.aestheticmatch.com
+Fort Wayne,Nose Plastic Surgery (Rhinoplasty),22,"$3,000 – $12,000","$7,600",Dr. Douglas Diepenbrock,https://www.aestheticmatch.com
+El Paso,Nose Plastic Surgery (Rhinoplasty),25,"$6,000 - $12,000","$8,650","Dr. Ozan Sozer, M.D.",https://www.aestheticmatch.com
+Durham,Nose Plastic Surgery (Rhinoplasty),7,"$8,400 to $10,600","$10,100",Dr. David L. Stein,https://www.aestheticmatch.com
+Detroit,Nose Plastic Surgery (Rhinoplasty),10,"$5,000 to $11,000","$8,300",Dr. Bradley Calobrace,https://www.aestheticmatch.com
+Denver,Nose Plastic Surgery (Rhinoplasty),137,"$5,000 to $12,000","$8,000",Dr. David Kowalczyk,https://www.aestheticmatch.com
+Corpus Christi,Nose Plastic Surgery (Rhinoplasty),9,"$5,800 to $7,000","$6,349",Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Nose Plastic Surgery (Rhinoplasty),9,"$7,000 to $15,000","$10,050",Dr. Stephen P. Smith Jr. (Smith Facial Plastics),https://www.aestheticmatch.com
+Colorado Springs,Nose Plastic Surgery (Rhinoplasty),41,"$4,500 to $15,000","$5,320",Dr. Steinwald,https://www.aestheticmatch.com
+Cleveland,Nose Plastic Surgery (Rhinoplasty),25,"$10,000 to $15,000","$12,100",Dr. Bahman Guyuron,https://www.aestheticmatch.com
+Cincinnati,Nose Plastic Surgery (Rhinoplasty),78,"$5,500 to $8,000","$6,820",Dr. Alexander Donath,https://www.aestheticmatch.com
+Chula Vista,Nose Plastic Surgery (Rhinoplasty),108,"$6,500 – $12,000","$8,150","Dr. Roy David, MD",https://www.aestheticmatch.com
+Chicago,Nose Plastic Surgery (Rhinoplasty),196,"$2,125 – $13,300","$7,845",Dr. Michael Horn,https://www.aestheticmatch.com
+Chesapeake,Nose Plastic Surgery (Rhinoplasty),46,"$5,000 to $25,000","$15,800",Dr. Bahman Naderi,https://www.aestheticmatch.com
+Charlotte,Nose Plastic Surgery (Rhinoplasty),11,"$7,000 to $25,000","$14,150",Dr. Jonathan Kulbersh,https://www.aestheticmatch.com
+Chandler,Nose Plastic Surgery (Rhinoplasty),21,"$6,500 to $15,000","$9,200",Dr. Samuel DeVictor,https://www.aestheticmatch.com
+Cape Coral,Nose Plastic Surgery (Rhinoplasty),63,"$7,000 - $15,000","$10,500","Dr. Stephen Prendiville, M.D.",https://www.aestheticmatch.com
+Buffalo,Nose Plastic Surgery (Rhinoplasty),96,"$4,500 to $18,000","$8,742","Dr. Sherif Sherris, MD",https://www.aestheticmatch.com
+Boston,Nose Plastic Surgery (Rhinoplasty),13,"$7,000 to $14,000","$10,150",Dr. Mark Markarian,https://www.aestheticmatch.com
+Boise,Nose Plastic Surgery (Rhinoplasty),19,"$5,000 to $12,000","$7,600",Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Nose Plastic Surgery (Rhinoplasty),70,"$10,800 – $17,000","$11,050",Dr. Adam Basner,https://www.aestheticmatch.com
+Bakersfield,Nose Plastic Surgery (Rhinoplasty),16,"$7,000 to $15,000","$10,150",Dr. Hootan Daneshmand,https://www.aestheticmatch.com
+Austin,Nose Plastic Surgery (Rhinoplasty),0,"$6,000 – $17,000","$15,890","Dr. Louis William Apostolakis, M.D.",https://www.aestheticmatch.com
+Aurora,Nose Plastic Surgery (Rhinoplasty),8,"$5,000 to $18,000","$9,800",Dr. David Kowalczyk,https://www.aestheticmatch.com
+Arlington,Nose Plastic Surgery (Rhinoplasty),11,"$8,000 - $20,000","$10,150",Dr. Anthony Tran,https://www.aestheticmatch.com
+Anchorage,Nose Plastic Surgery (Rhinoplasty),16,$7000-$15000,"$10,800",Dr. Christina Magill,https://www.aestheticmatch.com
+Anaheim,Nose Plastic Surgery (Rhinoplasty),451,"$6,000 to $15,000","$9,100",Dr. Kevin Sadati,https://www.aestheticmatch.com
+Albuquerque,Nose Plastic Surgery (Rhinoplasty),17,"$5,000 - $10,000+","$5,300",Dr. Gallegos,https://www.aestheticmatch.com
+Washington,Liposuction,80,"$3,000 to $10,000","$3,800",Dr. Shlomo Widder,https://www.aestheticmatch.com
+Virginia Beach,Liposuction,36,"$4,000 – $12,500","$5,250",Dr. Matthew Galardi,https://www.aestheticmatch.com
+Tulsa,Liposuction,21,"$3,000 to $7,000","$5,325",Dr. Brenda Schiesel,https://www.aestheticmatch.com
+Tucson,Liposuction,21,"$3,000 to $8,000","$5,500",Dr. Maloney,https://www.aestheticmatch.com
+Toledo,Liposuction,4,"$3,200-$7,000","$3,400","Dr. John F. Zavell, MD, FACS",https://www.aestheticmatch.com
+Stockton,Liposuction,85,"$1,500 - $20,000","$8,200",Dr. Gerald Bock,https://www.aestheticmatch.com
+St. Petersburg,Liposuction,701,"$3,500 to $7,500","$5,450","Dr. John J. O'Brien Jr., St. Petersburg Center for Plastic Surgery",https://www.aestheticmatch.com
+St. Louis,Liposuction,701,"$1,500 – $6,000","$3,450",Dr. Wright,https://www.aestheticmatch.com
+Seattle,Liposuction,73,"$3,500 - $7,500","$5,150",Dr. Santos,https://www.aestheticmatch.com
+Scottsdale,Liposuction,122,"$3,000–$8,000","$5,900",Dr. Navjot Singh,https://www.aestheticmatch.com
+Santa Ana,Liposuction,416,"$850 to $8,500","$3,155",Dr. Tim Roham,https://www.aestheticmatch.com
+San Jose,Liposuction,157,"$1,200 to $13,320","$6,550",Dr. Eric Okamoto,https://www.aestheticmatch.com
+San Francisco,Liposuction,169,"$4,000 to $80,000+","$9,800",Dr. Kenneth Bermudez,https://www.aestheticmatch.com
+San Diego,Liposuction,94,"$7,000 to $20,000","$14,200",Dr. David Kent,https://www.aestheticmatch.com
+San Antonio,Liposuction,141,"$2,000 to $10,000","$3,700","Dr. Melanie Carreon, M.D.",https://www.aestheticmatch.com
+Saint Paul,Liposuction,63,"$1,500 to $15,000","$8,500",Dr. Thao,https://www.aestheticmatch.com
+Sacramento,Liposuction,31,"$5,000 to $8,000","$6,600",Dr. Rudy Coscia,https://www.aestheticmatch.com
+Riverside,Liposuction,11,"$3,500 - $7,500","$5,450",Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Liposuction,0,"$2,000 to $7,500","$3,700",Dr. Neil Zemmel,https://www.aestheticmatch.com
+Reno,Liposuction,7,"$3,000 to $10,000+","$6,950",Dr. Dayan,https://www.aestheticmatch.com
+Raleigh,Liposuction,1,"$3,700 to $10,000+","$7,680",Dr. Juan A. Ortiz,https://www.aestheticmatch.com
+Portland,Liposuction,36,"$3,500 to $8,500","$6,700",Dr. Matthew Lewis,https://www.aestheticmatch.com
+Port St. Lucie,Liposuction,64,"$1,999 to $3,999","$3,348",Dr. S. Darrell Lee,https://www.aestheticmatch.com
+Plano,Liposuction,3,"$4,000 to $9,000","$5,600",Dr. Raj Mohan,https://www.aestheticmatch.com
+Pittsburgh,Liposuction,45,"$3,000 to $8,800","$5,650",Dr. Richard M. Chierici,https://www.aestheticmatch.com
+Phoenix,Liposuction,146,"$1,600 to $13,000","$6,900",Dr. Paul Wigoda,https://www.aestheticmatch.com
+Philadelphia,Liposuction,1,"$3,000 to $11,000","$6,150","Dr. David Bottger, MD",https://www.aestheticmatch.com
+Orlando,Liposuction,19,"$2,000 – $12,200","$4,900",Dr. Scott Rotatori,https://www.aestheticmatch.com
+Omaha,Liposuction,5,"$2,000 – $10,000","$7,600",Dr. Anas Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Liposuction,23,"$2,100 to $4,500","$3,482",Dr. James Lowe,https://www.aestheticmatch.com
+Oakland,Liposuction,171,"$4,000 - $10,000","$5,000",Dr. Gabriel H. Patino,https://www.aestheticmatch.com
+North Las Vegas,Liposuction,38,"$3,000 to $12,000","$8,750",Dr. Bryson Richards,https://www.aestheticmatch.com
+Norfolk,Liposuction,2,"$4,500 - $12,500","$8,200",Dr. Niamtu,https://www.aestheticmatch.com
+Newark,Liposuction,26,"$2,300 to $8,000","$6,200",Dr. Michael Gartner,https://www.aestheticmatch.com
+New York,Liposuction,561,"$3,000 to $10,000","$5,700","Dr. Thomas P. Sterry, MD",https://www.aestheticmatch.com
+New Orleans,Liposuction,48,"$1,500 to $7,000","$3,700",Dr. Kamran Khoobehi,https://www.aestheticmatch.com
+Nashville,Liposuction,1,"$3,500 – $4,000","$3,600",Dr. Michael Cash,https://www.aestheticmatch.com
+Minneapolis,Liposuction,16,"$1,500 to $10,000","$5,700",Dr. Mesna,https://www.aestheticmatch.com
+Milwaukee,Liposuction,1,"$3,500 to $7,500","$4,620",Dr. Bonness,https://www.aestheticmatch.com
+Mesa,Liposuction,122,"$2,000 to $10,000","$4,400","Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Memphis,Liposuction,73,"$3,500 to $7,500","$5,480",Dr. Roberto Lachica at The Langsdon Clinic,https://www.aestheticmatch.com
+Madison,Liposuction,127,"$3,000 - $8,000","$5,000",Dr. David Janssen,https://www.aestheticmatch.com
+Lubbock,Liposuction,7,"$1,500 to $11,000","$6,350","Dr. Rowley, Rowley Plastic Surgery",https://www.aestheticmatch.com
+Louisville,Liposuction,95,"$2,500 - $4,000","$3,338",Dr. Jared Nimtz,https://www.aestheticmatch.com
+Long Beach,Liposuction,419,"$3,000 to $8,500+","$6,150",Dr. Saul A. Hurvitz,https://www.aestheticmatch.com
+Lincoln,Liposuction,147,"$7,000 - $10,000","$8,600",Dr. Jacobson at Jacobson Cosmetic Surgery,https://www.aestheticmatch.com
+Lexington,Liposuction,3,"$2,500 to $4,500","$3,600",Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Liposuction,38,"$4,000 to $10,000","$6,950",Dr. Stephen Miller,https://www.aestheticmatch.com
+Laredo,Liposuction,0,"$10,000 to $16,000","$12,900",Laredo Wellness and Aesthetics,https://www.aestheticmatch.com
+Kansas City,Liposuction,45,"$3,500 to $15,000","$8,600",Dr. Hlavacek at Kansas City Surgical Arts,https://www.aestheticmatch.com
+Jersey City,Liposuction,692,"$1,800 to $7,800","$3,480","Dr. Pedy Ganchi, MD",https://www.aestheticmatch.com
+Jacksonville,Liposuction,9,"$1,999 to $18,999","$10,180",Dr. Sophia Kirk,https://www.aestheticmatch.com
+Irving,Liposuction,25,"$3,000 to $17,000","$4,670",Dr. Raj Mohan,https://www.aestheticmatch.com
+Irvine,Liposuction,20,"$4,500 - $8,500","$6,200",Dr. Cruise,https://www.aestheticmatch.com
+Indianapolis,Liposuction,49,"$6,000 to $9,000","$7,450",Dr. Zollman of Zollman Plastic Surgery,https://www.aestheticmatch.com
+Honolulu,Liposuction,19,"$500 to $4,000","$6,700","Dr. James Y. Fu, MD",https://www.aestheticmatch.com
+Hialeah,Liposuction,327,"$1,999 to $6,000+","$3,220",Dr. George Avana,https://www.aestheticmatch.com
+Henderson,Liposuction,0,"$3,900 to $20,000","$12,200",Dr. Shahin Ghadir,https://www.aestheticmatch.com
+Greensboro,Liposuction,47,"$4,700 - $7,000","$5,600",Dr. Collier Pace,https://www.aestheticmatch.com
+Glendale,Liposuction,2,"$3,299 to $8,000","$4,270",Dr. Eric J. Yavrouian,https://www.aestheticmatch.com
+Gilbert,Liposuction,0,"$2,000 to $18,000","$11,850","Dr. Jude LaBarbera, MD",https://www.aestheticmatch.com
+Garland,Liposuction,16,"$3,000 to $17,000","$6,950",Dr. David Liland,https://www.aestheticmatch.com
+Frisco,Liposuction,0,"$3,600 - $8,500","$4,100",Dr. Raja Mohan,https://www.aestheticmatch.com
+Fresno,Liposuction,192,"$3,000 to $8,000","$5,200",Dr. Mark A. Chin,https://www.aestheticmatch.com
+Fort Worth,Liposuction,165,"$3,000 to $8,000","$5,700",Dr. Steele,https://www.aestheticmatch.com
+Fort Wayne,Liposuction,21,"$3,500 to $7,500","$5,650",Dr. Diepenbrock (Diepenbrock Facial Cosmetic Surgery),https://www.aestheticmatch.com
+El Paso,Liposuction,13,"$3,500 to $7,000","$5,072","Dr. Frank Agullo, MD",https://www.aestheticmatch.com
+Durham,Liposuction,2,"$5,400 to $7,610+","$6,580",Dr. Eric C. Polk,https://www.aestheticmatch.com
+Detroit,Liposuction,6,"$7,000 to $20,000","$13,450",Dr. Lytle,https://www.aestheticmatch.com
+Denver,Liposuction,110,"$4,475 to $13,000","$6,500",Dr. Jeff Russell,https://www.aestheticmatch.com
+Corpus Christi,Liposuction,14,"$3,000 to $8,000","$5,300","Dr. J. Keith Rose, MD",https://www.aestheticmatch.com
+Columbus,Liposuction,6,"$4,000 to $20,000","$10,150",Dr. Zochowski,https://www.aestheticmatch.com
+Colorado Springs,Liposuction,22,"$5,200 and up","$5,265",Dr. Aaron D. Smith,https://www.aestheticmatch.com
+Cleveland,Liposuction,18,"$3,000 to $8,000","$5,100","Dr. Gregory M. Fedele, MD",https://www.aestheticmatch.com
+Cincinnati,Liposuction,48,"$3,000 to $8,500","$6,250",Dr. Matt Goldschmidt,https://www.aestheticmatch.com
+Chula Vista,Liposuction,92,"$3,000 to $8,000","$5,750","Dr. Mark Mofid, MD, FACS",https://www.aestheticmatch.com
+Chicago,Liposuction,150,"$2,995 to $15,000","$6,200",Dr. Laurie A. Casas,https://www.aestheticmatch.com
+Chesapeake,Liposuction,36,"$4,500 to $12,500","$7,200",Dr. Carney,https://www.aestheticmatch.com
+Charlotte,Liposuction,4,"$3,500 – $7,500","$5,700",Dr. Joel Beck,https://www.aestheticmatch.com
+Chandler,Liposuction,7,"$3,500 to $5,000","$4,650","Dr. Olson, Advanced Plastic Surgery Institute",https://www.aestheticmatch.com
+Cape Coral,Liposuction,40,"$3,500 to $7,500","$5,384","Dr. Lorraine Golosow, MD",https://www.aestheticmatch.com
+Buffalo,Liposuction,63,"$2,000 to $10,000","$6,150",Dr. Samuel Shatkin Jr.,https://www.aestheticmatch.com
+Boston,Liposuction,13,"$6,000 to $10,000","$7,550",Dr. Jeffrey Lee,https://www.aestheticmatch.com
+Boise,Liposuction,10,"$2,000 to $7,000","$4,400",Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Liposuction,54,"$4,400 to $8,900+","$7,520","Dr. Ricardo L. Rodriguez, MD",https://www.aestheticmatch.com
+Bakersfield,Liposuction,12,"$3,500 to $8,000+","$5,700","Dr. Hootan Daneshmand, MD at Silhouette Plastic Surgery Institute",https://www.aestheticmatch.com
+Austin,Liposuction,0,"$3,000 to $9,800","$5,900","Dr. Justin West, MD",https://www.aestheticmatch.com
+Aurora,Liposuction,5,"$4,475 to $13,000","$7,200",Modern Surgical Arts of Denver & Aurora,https://www.aestheticmatch.com
+Arlington,Liposuction,7,"$6,800 to $17,000","$14,150",Dr. Raj Mohan,https://www.aestheticmatch.com
+Anchorage,Liposuction,5,$4000 - $7000,"$5,670","Dr. James Lee, MD",https://www.aestheticmatch.com
+Anaheim,Liposuction,424,"$3,000 to $8,000","$5,137",Dr. Kevin Sadati,https://www.aestheticmatch.com
+Albuquerque,Liposuction,8,"$3,500 to $8,000+","$6,800",Dr. Jonathan Hermosa,https://www.aestheticmatch.com
+Washington,Facelift,66,"$3,000 to $25,000+","$9,100",Dr. Michael Schoenfeld,https://www.aestheticmatch.com
+Virginia Beach,Facelift,32,"$3,500 to $28,000","$12,425",Dr. Joe Choe,https://www.aestheticmatch.com
+Tulsa,Facelift,12,"$7,000 - $15,000","$9,147",Dr. Angelo Cuzalina,https://www.aestheticmatch.com
+Tucson,Facelift,21,9000 - 35000,"$17,500",Dr. Todd Hobgood,https://www.aestheticmatch.com
+Toledo,Facelift,7,10000 - 12000,"$10,100","Dr. John F. Zavell, MD, FACS",https://www.aestheticmatch.com
+Stockton,Facelift,72,"$8,000 to $22,000","$15,200",Dr. Charles Perry,https://www.aestheticmatch.com
+St. Petersburg,Facelift,607,"$10,000 – $20,000","$10,500","Dr. Demetri Arnaoutakis, MD",https://www.aestheticmatch.com
+St. Louis,Facelift,607,"$11,000 – $15,000","$11,250",Dr. John B. Copeland,https://www.aestheticmatch.com
+Seattle,Facelift,57,"$8,000 to $14,000","$11,200",Dr. Craig Jonov,https://www.aestheticmatch.com
+Scottsdale,Facelift,98,"$15,000 - $25,000","$20,050",Dr. Todd Hobgood,https://www.aestheticmatch.com
+Santa Ana,Facelift,376,"$7,000 to $15,000","$10,150",Dr. Roham Mozaffari of Roham Advanced Laser & Cosmetic Surgery,https://www.aestheticmatch.com
+San Jose,Facelift,140,"$6,000 to $50,000","$14,200",Dr. Arash Maan,https://www.aestheticmatch.com
+San Francisco,Facelift,150,"$10,000 to $50,000","$28,000",Dr. Larry Fan,https://www.aestheticmatch.com
+San Diego,Facelift,76,"$3,500–$30,000","$25,100",Alexander Cosmetic Surgery,https://www.aestheticmatch.com
+San Antonio,Facelift,132,"$6,500 - $10,500","$8,700",Dr. Jose Barrera,https://www.aestheticmatch.com
+Saint Paul,Facelift,56,"$16,000 to $20,000","$17,940",Dr. David Gervais,https://www.aestheticmatch.com
+Sacramento,Facelift,29,"$13,000 to $25,500","$24,500",Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Facelift,16,"$7,000 to $15,000","$10,080",Dr. Robert Hardesty,https://www.aestheticmatch.com
+Richmond,Facelift,0,"$7,000 to $15,000+","$11,750",Dr. Mark Zinsser,https://www.aestheticmatch.com
+Reno,Facelift,14,"$6,000 - $12,000","$8,900",Dr. Kyle Yamamoto,https://www.aestheticmatch.com
+Raleigh,Facelift,3,"$10,500 to $14,700","$12,500",Dr. Joel P. Stein,https://www.aestheticmatch.com
+Portland,Facelift,33,"$10,000 to $20,000","$15,124",Dr. James Aycock,https://www.aestheticmatch.com
+Port St. Lucie,Facelift,74,"$10,000 to $18,000","$14,800",Dr. Avron Lipschitz,https://www.aestheticmatch.com
+Plano,Facelift,1,"$2,800 – $22,000","$12,372",Dr. Brobst,https://www.aestheticmatch.com
+Pittsburgh,Facelift,41,"$7,000 to $15,000","$9,180",Dr. Paul Leong,https://www.aestheticmatch.com
+Phoenix,Facelift,132,"$15,000 - $35,000","$19,800",Dr. Todd Hobgood,https://www.aestheticmatch.com
+Philadelphia,Facelift,1,"$14,000 - $25,000","$19,800","Dr. Joel E. Pontell, MD",https://www.aestheticmatch.com
+Orlando,Facelift,17,"$7,000 to $20,000","$13,200",Dr. Gross,https://www.aestheticmatch.com
+Omaha,Facelift,4,"$7,000 to $18,400","$12,400",Dr. Popp,https://www.aestheticmatch.com
+Oklahoma City,Facelift,20,"$7,000 to $15,000","$9,150",Dr. Shadfar,https://www.aestheticmatch.com
+Oakland,Facelift,150,"$6,000 to $20,000","$10,100",Dr. Moulton-Barrett,https://www.aestheticmatch.com
+North Las Vegas,Facelift,39,"$18,000 and up","$22,500",Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Norfolk,Facelift,3,"$3,500 to $20,000+","$10,400",Dr. Jaehak Kim,https://www.aestheticmatch.com
+Newark,Facelift,26,"$8,000 – $18,000","$13,900",Dr. Pedy Ganchi,https://www.aestheticmatch.com
+New York,Facelift,493,"$20,000 to $80,000","$45,200",Dr. Shaun Parson,https://www.aestheticmatch.com
+New Orleans,Facelift,42,"$6,500 to $18,200","$11,400",Dr. Richard Moses,https://www.aestheticmatch.com
+Nashville,Facelift,0,"$9,800 to $21,000","$14,200",Dr. David Gilpin,https://www.aestheticmatch.com
+Minneapolis,Facelift,16,"$12,000 - $15,300","$13,820",Dr. Mary O’Brien,https://www.aestheticmatch.com
+Milwaukee,Facelift,2,"$7,000 to $20,000","$10,300",Dr. Campbell at Quintessa,https://www.aestheticmatch.com
+Mesa,Facelift,98,7500 to 25000,20150,"Dr. Laris, Phoenix Skin",https://www.aestheticmatch.com
+Memphis,Facelift,82,"$7,000 to $15,000","$11,950","Dr. Phillip R. Langsdon, MD",https://www.aestheticmatch.com
+Madison,Facelift,99,"$11,000 to $18,000","$14,800",Dr. David Janssen,https://www.aestheticmatch.com
+Lubbock,Facelift,4,"$15,000+","$16,900","Dr. Schmid, Lubbock Plastic Surgery Institute",https://www.aestheticmatch.com
+Louisville,Facelift,79,"$17,000 - $24,000","$20,650",Dr. Gerald O’Daniel,https://www.aestheticmatch.com
+Long Beach,Facelift,375,"$6,000 to $15,000","$9,200",Dr. Dan Mills,https://www.aestheticmatch.com
+Lincoln,Facelift,109,"$7,000 to $14,000","$9,800","Dr. Jessica Jacobson DO, FAACS",https://www.aestheticmatch.com
+Lexington,Facelift,7,"$15,000 – $24,000","$20,600",Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Facelift,39,"$8,000 - $30,000","$17,800",Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Laredo,Facelift,0,"$7,000 to $20,000","$9,100","Dr. Marco R. Avila, MD",https://www.aestheticmatch.com
+Kansas City,Facelift,39,"$7,000 to $15,000","$17,200",Monarch Plastic Surgery,https://www.aestheticmatch.com
+Jersey City,Facelift,604,"$12,000 – $18,000","$14,890",Dr. Michael Kopelman,https://www.aestheticmatch.com
+Jacksonville,Facelift,10,"$10,000 to $18,000","$14,800",Dr. John G. Csikai,https://www.aestheticmatch.com
+Irving,Facelift,22,"$15,000 to $25,000","$19,800","Dr. David Liland, MD, FACS (Dallas, near Irving)",https://www.aestheticmatch.com
+Irvine,Facelift,18,"$6,000 - $15,000","$11,350",Dr. Goretti Ho Taghva,https://www.aestheticmatch.com
+Indianapolis,Facelift,33,"$10,500 to $15,000","$10,950",Dr. Stacey Wagner,https://www.aestheticmatch.com
+Honolulu,Facelift,16,"$4,000 to $20,000+","$8,300",Dr. Michael Pasquale,https://www.aestheticmatch.com
+Hialeah,Facelift,257,"$10,000 to $16,000","$13,100",Dr. Armando Soto,https://www.aestheticmatch.com
+Henderson,Facelift,0,"$6,000 to $30,000","$18,150",Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Greensboro,Facelift,33,"$9,000 to $14,700","$13,200",Dr. Collier Pace,https://www.aestheticmatch.com
+Glendale,Facelift,2,"$5,000 to $18,000","$12,150",Dr. Eric Yavrouian,https://www.aestheticmatch.com
+Gilbert,Facelift,0,"$7,500 to $35,000","$17,800",Dr. Todd Hobgood,https://www.aestheticmatch.com
+Garland,Facelift,9,"$15,000 - $22,000","$19,200",Dr. Farris Plastic Surgery,https://www.aestheticmatch.com
+Frisco,Facelift,0,"$3,500 - $15,000","$8,500",Dr. Ken Smart,https://www.aestheticmatch.com
+Fresno,Facelift,160,"$8,000 to $15,000","$11,900","Dr. John F. Burnett, MD",https://www.aestheticmatch.com
+Fort Worth,Facelift,129,"$7,000 - $15,000","$10,100",Dr. Robert G. Anderson,https://www.aestheticmatch.com
+Fort Wayne,Facelift,18,"$7,000 to $15,000","$11,067",Dr. Ryan Diepenbrock,https://www.aestheticmatch.com
+El Paso,Facelift,11,"$10,000 to $45,000","$17,100","Dr. Marco A. Gonzalez, MD",https://www.aestheticmatch.com
+Durham,Facelift,3,"$9,000 to $15,000","$12,200",Dr. Sanjay Daluvoy,https://www.aestheticmatch.com
+Detroit,Facelift,3,"$10,000 – $30,000","$20,150","Dr. Mark S. Codner, MD",https://www.aestheticmatch.com
+Denver,Facelift,86,"$8,200 to $25,000","$14,300",Dr. Steven Vath,https://www.aestheticmatch.com
+Corpus Christi,Facelift,7,"$7,000 to $15,000","$10,150","Dr. J. Keith Rose, MD",https://www.aestheticmatch.com
+Columbus,Facelift,8,"$7,500 to $12,000","$10,100",Dr. Jason Lichten,https://www.aestheticmatch.com
+Colorado Springs,Facelift,19,15000 to 25000,"$19,800",Dr. Steven Vath,https://www.aestheticmatch.com
+Cleveland,Facelift,11,7000 to 15000,10200,"Dr. Gregory M. Fedele, MD",https://www.aestheticmatch.com
+Cincinnati,Facelift,46,"$10,000 to $17,000","$15,200",Dr. Alexander S. Donath,https://www.aestheticmatch.com
+Chula Vista,Facelift,75,"$7,000 to $15,000","$11,000","Dr. Ronald J. Edelson, MD",https://www.aestheticmatch.com
+Chicago,Facelift,133,"$3,800 to $21,000","$7,300",Northwestern Plastic Surgery,https://www.aestheticmatch.com
+Chesapeake,Facelift,32,"$3,500 - $20,000+","$8,900",Dr. Jae Kim,https://www.aestheticmatch.com
+Charlotte,Facelift,5,"$8,005 to $30,000+","$15,100",Dr. Todd Freeman,https://www.aestheticmatch.com
+Chandler,Facelift,8,"$15,000 – $35,000+","$24,800","Dr. Todd Hobgood, MD",https://www.aestheticmatch.com
+Cape Coral,Facelift,51,"$12,000 to $30,000","$21,850",Dr. Robert Brueck,https://www.aestheticmatch.com
+Buffalo,Facelift,51,"$18,000 to $40,000","$25,150",Dr. Todd B. Koch,https://www.aestheticmatch.com
+Boston,Facelift,10,"$5,600 - $40,000","$16,519",Dr. Mark Markarian,https://www.aestheticmatch.com
+Boise,Facelift,9,"$7,000 - $14,000","$13,200",Idaho Eyelid & Facial Plastic Surgery,https://www.aestheticmatch.com
+Baltimore,Facelift,37,"$5,300 – $23,000","$14,843",Dr. Ronald Schuster,https://www.aestheticmatch.com
+Bakersfield,Facelift,11,"$10,000 to $17,000","$16,100",Dr. Farzin Kerendian,https://www.aestheticmatch.com
+Austin,Facelift,0,"$8,000 to $45,000","$12,800",Dr. Holzman (Holzman Plastic Surgery),https://www.aestheticmatch.com
+Aurora,Facelift,2,"$8,200 - $25,000","$13,800",Dr. Steven Vath,https://www.aestheticmatch.com
+Arlington,Facelift,6,$15000 to $27425,"$27,000","Dr. Steven Camp, MD",https://www.aestheticmatch.com
+Anchorage,Facelift,4,"$7,000 - $15,000","$10,150","Dr. Daniel Suver, MD, FACS",https://www.aestheticmatch.com
+Anaheim,Facelift,381,"$6,000 to $15,000","$11,250",Dr. Daniel Mills,https://www.aestheticmatch.com
+Albuquerque,Facelift,8,$6250 to $10000,"$8,600",Dr. Miguel Gallegos,https://www.aestheticmatch.com
+Washington,Breast Reduction,140,"$7,995 to $12,850","$9,150",Dr. Kimberly Henry,https://www.aestheticmatch.com
+Virginia Beach,Breast Reduction,64,"$7,995 - $12,850","$9,150",Dr. Brent Sundin,https://www.aestheticmatch.com
+Tulsa,Breast Reduction,29,"$7,000 to $10,000+","$7,700","Dr. Brenda Schiesel, MD",https://www.aestheticmatch.com
+Tucson,Breast Reduction,29,"$5,000 to $10,000+","$7,610",Dr. Sanchez-Navarro,https://www.aestheticmatch.com
+Toledo,Breast Reduction,16,"$5,050 to $10,000","$7,650",Dr. Frank Barone,https://www.aestheticmatch.com
+Stockton,Breast Reduction,133,"$6,000 to $9,000","$7,615",A leading breast reduction surgeon at Beautologie Cosmetic Surgery & Medical Aesthetics,https://www.aestheticmatch.com
+St. Petersburg,Breast Reduction,809,"$2,900 to $11,200","$9,700",Dr. Traci Temmen,https://www.aestheticmatch.com
+St. Louis,Breast Reduction,809,"$4,927–$8,499","$9,315",Dr. Wright,https://www.aestheticmatch.com
+Seattle,Breast Reduction,119,"$7,800 to $9,000","$8,750",Dr. Jeffrey H. Barnett,https://www.aestheticmatch.com
+Scottsdale,Breast Reduction,137,"$8,000 - $12,500","$10,350",Dr. Sanniec,https://www.aestheticmatch.com
+Santa Ana,Breast Reduction,466,"$6,000 to $15,000","$13,200",Dr. Tim Roham,https://www.aestheticmatch.com
+San Jose,Breast Reduction,236,"$15,000 - $25,000","$19,800",Dr. Alexander Ereso,https://www.aestheticmatch.com
+San Francisco,Breast Reduction,247,"$18,000 to $50,000","$20,200",Dr. Orna Fisher,https://www.aestheticmatch.com
+San Diego,Breast Reduction,96,"$12,000 – $15,500","$14,100",Dr. Vincent Marin,https://www.aestheticmatch.com
+San Antonio,Breast Reduction,168,"$5,000 to $10,500","$7,600",Dr. Michael Ablavsky,https://www.aestheticmatch.com
+Saint Paul,Breast Reduction,94,"$7,000 to $14,000","$11,180",Dr. David Thao,https://www.aestheticmatch.com
+Sacramento,Breast Reduction,63,"$9,500 to $13,000","$10,700",Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Breast Reduction,26,"$8,000 to $15,000","$11,680",Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Breast Reduction,2,"$9,380 to $12,000","$10,450",Dr. Lewis at Lewis Plastic Surgery,https://www.aestheticmatch.com
+Reno,Breast Reduction,16,"$5,293 to $9,130","$7,650",Dr. McCormack and Dr. Joslyn (Reno Tahoe Plastic Surgery),https://www.aestheticmatch.com
+Raleigh,Breast Reduction,5,"$10,500 to $10,900","$10,650",North Raleigh Plastic Surgery,https://www.aestheticmatch.com
+Portland,Breast Reduction,61,"$7,800 to $18,285+","$16,100","Dr. Austin Hayes, MD",https://www.aestheticmatch.com
+Port St. Lucie,Breast Reduction,71,7000-10000+,"$9,575",Dr. David Lickstein,https://www.aestheticmatch.com
+Plano,Breast Reduction,4,"$8,000 to $16,700","$13,000",Dr. Steven Camp,https://www.aestheticmatch.com
+Pittsburgh,Breast Reduction,64,"$3,300 to $8,900","$7,600",Dr. Theodore Foley,https://www.aestheticmatch.com
+Phoenix,Breast Reduction,201,"$2,700 to $20,000+","$9,050",Dr. Steven Turkeltaub,https://www.aestheticmatch.com
+Philadelphia,Breast Reduction,3,"$8,000 to $19,000","$13,200",Dr. Adrian Lo,https://www.aestheticmatch.com
+Orlando,Breast Reduction,24,"$7,000 to $17,395","$8,200",Dr. Jon Paul Trevisani,https://www.aestheticmatch.com
+Omaha,Breast Reduction,12,"5,010 to 8,642","8,960",Dr. Alex Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Breast Reduction,32,"$5,100 to $9,300","$7,760","Surgeon at 9020 E. Reno Avenue, Floor 2, OKC (5.0 rating on MDsave)",https://www.aestheticmatch.com
+Oakland,Breast Reduction,247,"$15,000 to $25,000","$18,500",Dr. Patino,https://www.aestheticmatch.com
+North Las Vegas,Breast Reduction,39,"$4,000 to $15,000","$11,393",Dr. Frank L. Stile,https://www.aestheticmatch.com
+Norfolk,Breast Reduction,9,6771-12500,"$10,800",Dr. Dennis K. Hammond,https://www.aestheticmatch.com
+Newark,Breast Reduction,45,"$6,700 to $13,000","$8,500",Dr. Spiro,https://www.aestheticmatch.com
+New York,Breast Reduction,653,"$8,000 - $15,000","$10,150",Dr. Richard H. Baxter,https://www.aestheticmatch.com
+New Orleans,Breast Reduction,65,"$8,000 - $13,000","$10,150","Dr. Randy Sadeghi, MD at Sadeghi Plastic Surgery",https://www.aestheticmatch.com
+Nashville,Breast Reduction,3,"$7,995 to $12,850+","$9,050",Dr. Joshua Greenwald,https://www.aestheticmatch.com
+Minneapolis,Breast Reduction,24,"$12,000 to $14,000","$13,150","Board-certified surgeons at Minneapolis Plastic Surgery, LTD",https://www.aestheticmatch.com
+Milwaukee,Breast Reduction,6,"$5,000 to $10,000","$7,650",Dr. Robert Bonness,https://www.aestheticmatch.com
+Mesa,Breast Reduction,137,"$6,000 to $17,000","$8,500",Dr. Jason L. Marks,https://www.aestheticmatch.com
+Memphis,Breast Reduction,107,"$5,000 to $11,000","$8,950","Dr. Mark Plauche at NuBody Concepts, Memphis",https://www.aestheticmatch.com
+Madison,Breast Reduction,172,"$5,000 - $14,000","$9,250",Dr. Bonness,https://www.aestheticmatch.com
+Lubbock,Breast Reduction,8,"$7,000 to $13,000","$8,200",Dr. Rowley,https://www.aestheticmatch.com
+Louisville,Breast Reduction,97,"$10,000 – $15,000","$12,420",Dr. Aaron Calobrace,https://www.aestheticmatch.com
+Long Beach,Breast Reduction,464,"$12,000 to $15,000","$13,622",Dr. Keith A. Hurvitz,https://www.aestheticmatch.com
+Lincoln,Breast Reduction,225,"$7,995 to $12,850","$9,080",Dr. David Jacobson,https://www.aestheticmatch.com
+Lexington,Breast Reduction,4,"$4,944 – $15,000","$8,150",Dr. Jared Nimtz,https://www.aestheticmatch.com
+Las Vegas,Breast Reduction,39,"$4,000 to $25,000","$11,475",Dr. Brian J. Parker,https://www.aestheticmatch.com
+Laredo,Breast Reduction,0,"$4,666 to $11,442","$7,620",Alamo Plastic Surgery,https://www.aestheticmatch.com
+Kansas City,Breast Reduction,73,"$4,000 to $12,850","$9,000",Dr. Jack Peterson,https://www.aestheticmatch.com
+Jersey City,Breast Reduction,800,"$6,700 – $25,000","$9,900","Dr. Alexis Parcells, MD, New Jersey",https://www.aestheticmatch.com
+Jacksonville,Breast Reduction,21,"$7,900 - $8,900+","$8,550",Dr. Sofia Kirk,https://www.aestheticmatch.com
+Irving,Breast Reduction,30,"$8,400 to $13,500","$9,600","Dr. Lawrence R. Farris, MD",https://www.aestheticmatch.com
+Irvine,Breast Reduction,24,"$5,500 – $14,700","$10,350",Dr. Karen Leong,https://www.aestheticmatch.com
+Indianapolis,Breast Reduction,80,"$4,500 to $12,271","$8,100",The Gillian Institute (Indy Plastic Surgery),https://www.aestheticmatch.com
+Honolulu,Breast Reduction,22,"$8,000 to $13,000","$9,100",Athena Clinic,https://www.aestheticmatch.com
+Hialeah,Breast Reduction,279,"$2,999 – $12,850","$9,046","Dr. Tal T Roudner, MD",https://www.aestheticmatch.com
+Henderson,Breast Reduction,3,"$14,000 to $25,000","$17,100",Dr. Jeffrey Roth,https://www.aestheticmatch.com
+Greensboro,Breast Reduction,75,"$4,857 to $10,500+","$8,100",Dr. David Bowers,https://www.aestheticmatch.com
+Glendale,Breast Reduction,4,"$12,660 - $15,000","$13,900",Dr. Ara K. Vartany,https://www.aestheticmatch.com
+Gilbert,Breast Reduction,3,"$6,000 to $17,000","$10,875",Dr. Gawley,https://www.aestheticmatch.com
+Garland,Breast Reduction,20,"$8,450 – $13,500","$9,270",Dr. Farris,https://www.aestheticmatch.com
+Frisco,Breast Reduction,0,"$6,500 to $13,500","$9,600","Dr. Ken Smart, MD",https://www.aestheticmatch.com
+Fresno,Breast Reduction,214,"$6,000 - $14,000","$10,150",Dr. Sian,https://www.aestheticmatch.com
+Fort Worth,Breast Reduction,200,"$11,000 to $13,000","$12,150","Dr. Steven Camp, MD",https://www.aestheticmatch.com
+Fort Wayne,Breast Reduction,37,"$8,000 to $12,000","$9,145",Aspire Plastic Surgery,https://www.aestheticmatch.com
+El Paso,Breast Reduction,11,"$7,000 to $14,000","$10,100","Dr. Marco A. Gonzalez, MD",https://www.aestheticmatch.com
+Durham,Breast Reduction,3,"$10,000 - $11,000","$10,675",Duke University Health System plastic surgeons,https://www.aestheticmatch.com
+Detroit,Breast Reduction,9,"$4,640 to $10,000","$7,100","Dr. Scott Brenman, MD",https://www.aestheticmatch.com
+Denver,Breast Reduction,169,"$11,000 to $21,000","$15,900",Dr. Steven Vath,https://www.aestheticmatch.com
+Corpus Christi,Breast Reduction,12,"$7,800 to $12,850","$8,100",Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Breast Reduction,13,"$5,000 to $8,200","$8,000",Dr. Anne Taylor,https://www.aestheticmatch.com
+Colorado Springs,Breast Reduction,28,"$8,500 - $9,900","$8,900",Dr. Jessica R. Sherry,https://www.aestheticmatch.com
+Cleveland,Breast Reduction,26,"$5,000 - $6,000","$5,150",Dr. Husni,https://www.aestheticmatch.com
+Cincinnati,Breast Reduction,71,"$4,400 to $6,100","$6,200",Dr. Donna Krummen,https://www.aestheticmatch.com
+Chula Vista,Breast Reduction,94,"$10,000 to $15,000","$12,200",Dr. Jonathan Eastlack,https://www.aestheticmatch.com
+Chicago,Breast Reduction,205,"$5,900 to $16,000","$8,300",Dr. Michael Horn,https://www.aestheticmatch.com
+Chesapeake,Breast Reduction,64,"$10,500 to $12,500","$10,600","Dr. Julia C. Stevenson, MD (Cardinal Plastic Surgery)",https://www.aestheticmatch.com
+Charlotte,Breast Reduction,11,"$8,000 – $12,000","$9,150","Dr. G. Laurie Casas at GH Surgery, Charlotte",https://www.aestheticmatch.com
+Chandler,Breast Reduction,15,"$5,547 to $16,000","$9,700",Dr. Daniel Olson,https://www.aestheticmatch.com
+Cape Coral,Breast Reduction,46,"$3,000 - $15,000","$8,670",Dr. Davek Sharma,https://www.aestheticmatch.com
+Buffalo,Breast Reduction,104,"$8,000 to $15,000","$9,200",Dr. James Quatela,https://www.aestheticmatch.com
+Boston,Breast Reduction,17,"$10,500 – $17,000","$13,870","Dr. Sean Doherty, MD",https://www.aestheticmatch.com
+Boise,Breast Reduction,16,"$4,958 to $12,850","$8,950",Dr. John D. Wigod,https://www.aestheticmatch.com
+Baltimore,Breast Reduction,81,"$7,600 – $13,500","$9,200",Dr. Sarah Mess,https://www.aestheticmatch.com
+Bakersfield,Breast Reduction,17,"$7,000 - $14,000","$10,200","Dr. Stephen Mitts, Mitts Plastic Surgery, Bakersfield",https://www.aestheticmatch.com
+Austin,Breast Reduction,0,"$5,500 to $14,500","$8,700",Dr. Aisha D. White,https://www.aestheticmatch.com
+Aurora,Breast Reduction,5,"$11,000 - $21,000","$11,700","Dr. Jennifer Emmett, MD",https://www.aestheticmatch.com
+Arlington,Breast Reduction,9,"$6,000 - $16,700","$9,300",Dr. Steven Camp,https://www.aestheticmatch.com
+Anchorage,Breast Reduction,11,"$6,633 to $18,587","$9,400",Plastic Surgeons of Alaska,https://www.aestheticmatch.com
+Anaheim,Breast Reduction,471,"$8,000 - $15,000","$13,100","Dr. Saba Motakef, MD",https://www.aestheticmatch.com
+Albuquerque,Breast Reduction,19,"$4,887 to $8,431","$6,600","Dr. Miguel Gallegos, Hermosa Plastic Surgery",https://www.aestheticmatch.com
+Washington,Breast Implants,83,"$6,000 to $12,000","$9,145",Dr. Barry Eppley,https://www.aestheticmatch.com
+Virginia Beach,Breast Implants,36,"$4,875 to $8,000+","$4,900","Dr. Galardi, Galardi | Bowen Plastic Surgery",https://www.aestheticmatch.com
+Tulsa,Breast Implants,21,"$4,500 to $7,000","$5,800",Dr. Tim R. Love,https://www.aestheticmatch.com
+Tucson,Breast Implants,22,"$6,300 to $8,200","$7,165",Dr. Julian Guerra,https://www.aestheticmatch.com
+Toledo,Breast Implants,7,"$6,000 - $7,000","$6,550",Dr. Matt Goldschmidt,https://www.aestheticmatch.com
+Stockton,Breast Implants,96,"$7,500 – $9,500","$8,600",Beautologie Stockton,https://www.aestheticmatch.com
+St. Petersburg,Breast Implants,655,"$4,500 - $7,000","$5,920",Dr. John J. O'Brien Jr.,https://www.aestheticmatch.com
+St. Louis,Breast Implants,655,"$6,000 to $10,000","$8,100","Dr. Copeland, Copeland Cosmetic Surgery",https://www.aestheticmatch.com
+Seattle,Breast Implants,69,"$4,995 to $15,000","$7,200",Dr. Kris Day at Pacific Sound Plastic Surgery,https://www.aestheticmatch.com
+Scottsdale,Breast Implants,114,"$5,000 to $10,000","$7,150",Dr. Kevin Parson,https://www.aestheticmatch.com
+Santa Ana,Breast Implants,401,"$2,700 to $12,000","$6,200","Dr. Michael A. Jazayeri, M.D.",https://www.aestheticmatch.com
+San Jose,Breast Implants,164,"$7,000 to $12,000+","$9,700",Dr. Alexander Ereso,https://www.aestheticmatch.com
+San Francisco,Breast Implants,178,"$6,500 to $24,000","$8,700",Dr. Fan,https://www.aestheticmatch.com
+San Diego,Breast Implants,93,"$8,000 – $9,500","$8,910",Dr. Waltzman,https://www.aestheticmatch.com
+San Antonio,Breast Implants,146,"$4,000 to $10,000","$4,700",Dr. Constance Barone,https://www.aestheticmatch.com
+Saint Paul,Breast Implants,69,"$4,000 - $8,000","$5,675",Dr. Heather Rocheford,https://www.aestheticmatch.com
+Sacramento,Breast Implants,38,"$5,920 to $6,941","$6,950",Dr. Wayne Yamahata,https://www.aestheticmatch.com
+Riverside,Breast Implants,13,"$6,000 to $10,000+","$7,000",Dr. Ben Childers,https://www.aestheticmatch.com
+Richmond,Breast Implants,0,"$5,000 to $8,200+","$8,036","Dr. Sundin, Virginia Institute of Plastic Surgery",https://www.aestheticmatch.com
+Reno,Breast Implants,14,"$8,000 - $10,000+","$8,100",Dr. James E. Murphy,https://www.aestheticmatch.com
+Raleigh,Breast Implants,3,"$6,000 to $10,000","$7,750",Dr. Glenn Lyle,https://www.aestheticmatch.com
+Portland,Breast Implants,37,"$7,000 to $9,000","$8,150",Dr. Michael Bohley,https://www.aestheticmatch.com
+Port St. Lucie,Breast Implants,67,"$6,000 – $10,000+","$6,850",Dr. Brian Lee,https://www.aestheticmatch.com
+Plano,Breast Implants,2,"$6,000 to $12,000","$6,800",Dr. Steven Camp,https://www.aestheticmatch.com
+Pittsburgh,Breast Implants,53,"$6,000 to $10,000","$8,173",Dr. Lorelei Grunwaldt,https://www.aestheticmatch.com
+Phoenix,Breast Implants,156,"$6,300 to $8,200","$6,768",Dr. Ricardo Guerra,https://www.aestheticmatch.com
+Philadelphia,Breast Implants,0,"$8,000 - $11,000","$9,950",Dr. Bottger,https://www.aestheticmatch.com
+Orlando,Breast Implants,15,"$4,000 to $10,000","$6,400",Dr. Kamran Azad,https://www.aestheticmatch.com
+Omaha,Breast Implants,7,"$5,000 to $10,000","$7,600",Dr. Mohamed Ayoub,https://www.aestheticmatch.com
+Oklahoma City,Breast Implants,22,"$3,500 to $12,500","$6,600",Dr. Tim R. Love,https://www.aestheticmatch.com
+Oakland,Breast Implants,181,"$7,000 to $12,000","$9,600",Dr. Patino,https://www.aestheticmatch.com
+North Las Vegas,Breast Implants,37,"$5,800 to $7,850","$6,400",Dr. Hayley Brown,https://www.aestheticmatch.com
+Norfolk,Breast Implants,3,"$8,500 to $13,500","$10,950",Dr. Lukas N. Troell,https://www.aestheticmatch.com
+Newark,Breast Implants,32,"$5,500 – $8,700","$6,800",Dr. Pedy Ganchi,https://www.aestheticmatch.com
+New York,Breast Implants,546,"$6,000 – $20,000","$8,200",Dr. David Cangello,https://www.aestheticmatch.com
+New Orleans,Breast Implants,49,"$4,900 to $10,500","$6,480",Dr. Robyn Moses,https://www.aestheticmatch.com
+Nashville,Breast Implants,0,"$5,900 – $9,500","$7,730",Dr. Brian P. Tierney,https://www.aestheticmatch.com
+Minneapolis,Breast Implants,19,"$4,500 to $8,500","$6,250",Dr. Heather Rocheford,https://www.aestheticmatch.com
+Milwaukee,Breast Implants,1,"$9,000 to $10,000","$9,600","Dr. Butz and Dr. Thayer at Quintessa, Milwaukee",https://www.aestheticmatch.com
+Mesa,Breast Implants,114,"$5,000 to $15,000","$7,200",Dr. Guerra,https://www.aestheticmatch.com
+Memphis,Breast Implants,76,"$3,000 - $10,000","$6,800",Dr. Scott Turner,https://www.aestheticmatch.com
+Madison,Breast Implants,127,"$9,000 to $10,000","$9,650",Dr. Troell,https://www.aestheticmatch.com
+Lubbock,Breast Implants,5,"$6,000 to $10,000+","$7,650",Dr. Kipp S. Towne,https://www.aestheticmatch.com
+Louisville,Breast Implants,84,"$8,700 to $10,000","$8,950",Dr. Lee Corbett,https://www.aestheticmatch.com
+Long Beach,Breast Implants,404,"$5,000 to $10,000","$8,100",Dr. Josh Waltzman,https://www.aestheticmatch.com
+Lincoln,Breast Implants,153,"$7,500 – $11,000","$8,950",Dr. Mitchell,https://www.aestheticmatch.com
+Lexington,Breast Implants,4,"$5,100 to $18,465","$7,800",Plastic Surgeons of Lexington,https://www.aestheticmatch.com
+Las Vegas,Breast Implants,37,6800 to 8500,"$7,422",Dr. Kush Pancholi,https://www.aestheticmatch.com
+Laredo,Breast Implants,0,5000-8000,5700,"Dr. Lance Troell, MD",https://www.aestheticmatch.com
+Kansas City,Breast Implants,57,"$5,000 – $10,000","$7,625","Dr. Levi Young, Advanced Cosmetic Surgery KC",https://www.aestheticmatch.com
+Jersey City,Breast Implants,645,"$5,500 - $10,000","$7,300","Dr. Pedy Ganchi, MD",https://www.aestheticmatch.com
+Jacksonville,Breast Implants,19,"$4,000 to $7,000","$5,600",Dr. James Hardy,https://www.aestheticmatch.com
+Irving,Breast Implants,23,"$5,700 to $9,000","$6,300",Dr. Jerry W. Troell in Irving,https://www.aestheticmatch.com
+Irvine,Breast Implants,15,"$7,000 to $10,000","$8,200",Dr. Dan Mills,https://www.aestheticmatch.com
+Indianapolis,Breast Implants,45,"$5,000 - $12,000+","$5,750",Dr. Kimberly Short,https://www.aestheticmatch.com
+Honolulu,Breast Implants,19,"$8,700 to $12,000","$9,450",Dr. Conrad Tirre,https://www.aestheticmatch.com
+Hialeah,Breast Implants,273,"$2,300 to $12,000","$5,100","Dr. Daniel Barrett, MD",https://www.aestheticmatch.com
+Henderson,Breast Implants,1,"$5,800 to $14,000","$6,950","Dr. Himansu Shah, MD, FACS",https://www.aestheticmatch.com
+Greensboro,Breast Implants,43,"$4,800 to $8,000+","$7,900",Dr. H. Christopher Coley,https://www.aestheticmatch.com
+Glendale,Breast Implants,3,"$7,500 to $9,000","$8,700","Dr. Vartan Mardirossian, MD",https://www.aestheticmatch.com
+Gilbert,Breast Implants,3,"$5,000 – $15,000","$7,700",Dr. Richard Guerra,https://www.aestheticmatch.com
+Garland,Breast Implants,16,"$6,000 – $14,500","$8,650",Dr. Farris,https://www.aestheticmatch.com
+Frisco,Breast Implants,0,"$5,000 to $7,900","$6,650","Dr. Ken Smart, MD",https://www.aestheticmatch.com
+Fresno,Breast Implants,192,"$5,000 - $10,000","$7,500",Dr. Mark A. Chin,https://www.aestheticmatch.com
+Fort Worth,Breast Implants,166,"$6,000 to $16,500","$8,200",Dr. Kunkel,https://www.aestheticmatch.com
+Fort Wayne,Breast Implants,19,"$5,000 - $7,000","$6,300","Dr. Joe, Plastic Surgery Innovations, Fort Wayne",https://www.aestheticmatch.com
+El Paso,Breast Implants,11,"$4,400 to $7,000+","$5,600","Dr. Marco A. Gonzalez, MD",https://www.aestheticmatch.com
+Durham,Breast Implants,2,"$7,500 - $8,000+","$7,680","Dr. Zachary Tannan, MD (Raleigh)",https://www.aestheticmatch.com
+Detroit,Breast Implants,6,"$4,800 to $11,000","$7,850",Dr. Andrew Lofman,https://www.aestheticmatch.com
+Denver,Breast Implants,114,"$8,800 to $10,500","$9,100","Dr. Adam Levy, MD",https://www.aestheticmatch.com
+Corpus Christi,Breast Implants,13,"$7,000 to $8,000","$7,100",Dr. Vijay Bindingnavele,https://www.aestheticmatch.com
+Columbus,Breast Implants,5,"$6,000 – $10,000","$8,120",Dr. Michael Donaldson,https://www.aestheticmatch.com
+Colorado Springs,Breast Implants,21,"$9,900–$12,000+","$9,950",Institute of Plastic Surgery,https://www.aestheticmatch.com
+Cleveland,Breast Implants,19,"$3,900 to $5,500","$4,300",Dr. Matt Goldschmidt,https://www.aestheticmatch.com
+Cincinnati,Breast Implants,51,"$6,950 to $10,000","$7,050",Dr. David T. Troell,https://www.aestheticmatch.com
+Chula Vista,Breast Implants,91,"$5,000 - $10,000","$8,700",Eastlake Cosmetic Surgery,https://www.aestheticmatch.com
+Chicago,Breast Implants,160,"$6,995 to $25,000","$8,100",Dr. Michael Horn,https://www.aestheticmatch.com
+Chesapeake,Breast Implants,36,"$5,000 to $10,000","$7,748",Dr. William Troell,https://www.aestheticmatch.com
+Charlotte,Breast Implants,8,"$8,000 - $12,000","$8,930",Dr. Erik J. Miles,https://www.aestheticmatch.com
+Chandler,Breast Implants,7,"$6,300 to $8,200","$7,680",Dr. Guerra at Guerra Plastic Surgery Center,https://www.aestheticmatch.com
+Cape Coral,Breast Implants,51,"$5,300 - $10,000","$8,500",Dr. Kent V. Hasen,https://www.aestheticmatch.com
+Buffalo,Breast Implants,65,"$4,500 - $6,000","$5,315",Dr. Andrew Giacobbe,https://www.aestheticmatch.com
+Boston,Breast Implants,13,"$7,900 to $18,500","$11,800",Dr. Sean Doherty,https://www.aestheticmatch.com
+Boise,Breast Implants,9,5100 to 18465,7500,Dr. Jonathan Kramer,https://www.aestheticmatch.com
+Baltimore,Breast Implants,60,"$4,000 - $10,500","$7,000",Dr. Sarah Mess,https://www.aestheticmatch.com
+Bakersfield,Breast Implants,14,"$6,000 - $12,000","$8,100",Dr. Sean Younai,https://www.aestheticmatch.com
+Austin,Breast Implants,0,"$5,500 - $10,000","$6,700","Dr. Steven Camp, MD",https://www.aestheticmatch.com
+Aurora,Breast Implants,3,"$8,800 - $9,700","$9,350",Dr. Steven Thompson at Modern Surgical Arts,https://www.aestheticmatch.com
+Arlington,Breast Implants,7,"$6,725 to $16,500+","$6,860",Dr. Vishnu Rumalla,https://www.aestheticmatch.com
+Anchorage,Breast Implants,6,"$3,800 to $18,465","$7,400",Dr. Thomas Kramer,https://www.aestheticmatch.com
+Anaheim,Breast Implants,407,"$7,000 – $10,000","$8,200","Dr. Saba Motakef, MD",https://www.aestheticmatch.com
+Albuquerque,Breast Implants,11,"$4,600 to $7,200","$5,600",Dr. Paul Gallegos,https://www.aestheticmatch.com
